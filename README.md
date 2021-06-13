@@ -35,5 +35,16 @@
 12. AWS Elastic Load Balancing
     1. [AWS Elastic Load Balancing Introduction](https://youtu.be/qpHLRc4Qt1E) [YouTube] 🤩
     2. [AWS — Elastic Load Balancer (ELB) Overview](https://medium.com/awesome-cloud/aws-elastic-load-balancer-elb-overview-introduction-to-aws-elb-alb-nlb-gwlb-e2820fe8fe27)
-    3. [AWS Application Load Balancer algorithms](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
-    4. [Using AWS Application Load Balancer and Network Load Balancer with EC2 Container Service](https://medium.com/containers-on-aws/using-aws-application-load-balancer-and-network-load-balancer-with-ec2-container-service-d0cb0b1d5ae5) 🤩
+    3. [AWS — Difference between Application load balancer (ALB) and Network load balancer (NLB)](https://medium.com/awesome-cloud/aws-difference-between-application-load-balancer-and-network-load-balancer-cb8b6cd296a4)
+    4. [AWS Application Load Balancer algorithms](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
+    5. [Using AWS Application Load Balancer and Network Load Balancer with EC2 Container Service](https://medium.com/containers-on-aws/using-aws-application-load-balancer-and-network-load-balancer-with-ec2-container-service-d0cb0b1d5ae5) 🤩
+13. [Deployment Styles: Blue/Green, Canary, and A/B](https://www.testenvironmentmanagement.com/deployment-styles-bluegreen-canary-and-ab/)
+14. AWS EC2
+    1. [Introduction to Amazon EC2 - Elastic Cloud Server & Hosting with AWS](https://youtu.be/TsRBftzZsQo) [YouTube] 
+    2. [Understanding EC2](https://medium.com/@awsandmore/day-9-ec2-explained-in-simple-term-d7b86a278297)
+    3. [What Should you know About AWS EC2](https://medium.com/swlh/what-should-you-know-about-aws-ec2-e6943dfe73cc) 🤩
+    4. [Not Just Another AWS EC2 Tutorial](https://medium.com/@nitin_patil/not-just-another-aws-ec2-tutorial-98ca3ad4dbab)
+15. Jenkins
+    1. [What Is Jenkins? | What Is Jenkins And How It Works?](https://youtu.be/LFDrDnKPOTg) [YouTube] 🤩
+    2. [What is Jenkins? Why Use Continuous Integration (CI) Tool?](https://www.guru99.com/jenkin-continuous-integration.html) 🤩
+    3. [Case Study and Industry Use Cases: What is Jenkins, Why to Use It, How It Works and Where To use it ?](https://medium.com/codex/case-study-what-is-jenkins-why-to-use-it-how-it-works-and-where-to-use-it-9d669da94f70)
