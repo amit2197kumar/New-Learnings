@@ -48,3 +48,37 @@
     1. [What Is Jenkins? | What Is Jenkins And How It Works?](https://youtu.be/LFDrDnKPOTg) [YouTube] 🤩
     2. [What is Jenkins? Why Use Continuous Integration (CI) Tool?](https://www.guru99.com/jenkin-continuous-integration.html) 🤩
     3. [Case Study and Industry Use Cases: What is Jenkins, Why to Use It, How It Works and Where To use it ?](https://medium.com/codex/case-study-what-is-jenkins-why-to-use-it-how-it-works-and-where-to-use-it-9d669da94f70)
+16. [Domain-specific languages](https://opensource.com/article/20/2/domain-specific-languages)
+17. [What is the Relationship Between Users and Hits Per Second?](https://www.blazemeter.com/blog/what-relationship-between-users-and-hits-second)
+18. [Spring Expression Language (SpEL)](https://www.baeldung.com/spring-expression-language)
+
+## July
+1. Java JVM & JIT Compiler
+    1. [Java JIT Compiler](https://medium.com/runtimeerror/java-jit-compiler-c538e5e06a2) 🤩
+    2. [Working with the JIT Compiler](https://www.oreilly.com/library/view/java-performance-2nd/9781492056102/ch04.html)  🤩
+    3. [Understanding JVM Architecture](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722) 
+    4. [Understand JVM and JIT Compiler — Part 1](https://julio-falbo.medium.com/understand-jvm-and-jit-compiler-part-1-a94c27d32478) 🤩
+    5. [Understand JVM and JIT Compiler — Part 2](https://julio-falbo.medium.com/understand-jvm-and-jit-compiler-part-2-cc6f26fff721) 🤩
+    6. [JVM Architecture](https://www.youtube.com/watch?v=dncpVFP1JeQ) [YouTube] 🤩
+    7. [JVM ( java virtual machine) architecture](https://youtu.be/ZBJ0u9MaKtM) [YouTube] 🤩
+2. Java Memory Management
+    1. [Stack Memory and Heap Space in Java](https://www.baeldung.com/java-stack-heap)
+    2. [Understanding Java Memory Model](https://medium.com/platform-engineer/understanding-java-memory-model-1d0863f6d973) 🤩
+    3. [Java Concurrency: Java Memory Model](https://medium.com/javarevisited/java-concurrency-java-memory-model-96e3ac36ec6b)
+    4. [The Java Memory Model - The Basics](https://youtu.be/LCSqZyjBwWA) [YouTube] 🤩
+3. Java String Pool
+    1. [Guide to Java String Pool](https://www.baeldung.com/java-string-pool) 🤩
+    2. [How is string pool measured in terms of buckets in java?](https://stackoverflow.com/questions/56375987/how-is-string-pool-measured-in-terms-of-buckets-in-java)
+    3. [Concept of String Pool And String Object Creation In Java](https://medium.com/nerd-for-tech/concept-of-string-pool-and-string-object-creation-in-java-27ed2b3089f5) 🤩
+    4. [The Immutable Strings and the String Pool](https://medium.com/swlh/the-immutable-strings-and-the-string-pool-25c144fab582)
+4. Heap Size
+    1. [How to control Java heap size (memory) allocation (xmx, xms)](https://alvinalexander.com/blog/post/java/java-xmx-xms-memory-heap-size-control/)
+    2. [Java Memory Management for Java Virtual Machine (JVM)](https://www.betsol.com/blog/java-memory-management-for-java-virtual-machine-jvm/)
+5. Garbage Collection
+    1. [Garbage Collection in Java – What is GC and How it Works in the JVM](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) 🤩
+    2. [Garbage Collection: How it’s done](https://medium.com/@kasunpdh/garbage-collection-how-its-done-d48135c7fe77) 🤩
+    3. [Understanding Java Garbage Collection](https://medium.com/platform-engineer/understanding-java-garbage-collection-54fc9230659a) 
+    4. [Understanding Garbage Collection in java — Java2Blog](https://medium.com/javarevisited/understanding-garbage-collection-in-java-java2blog-639bceaa4426)
+    5. [JVM Garbage Collection Basics](https://medium.com/javarevisited/jvm-garbage-collection-basics-edce6791ae98) 🤩
+    6. [Evolution of Garbage Collection on Java: Garbage First Garbage Collection](https://medium.com/@hansrajchoudhary_88463/evolution-of-garbage-collection-on-java-garbage-first-garbage-collection-a3f39b1a9ae0)
+6. [Native Memory — The Silent JVM Killer](https://medium.com/swlh/native-memory-the-silent-jvm-killer-595913cba8e7) 🤩
