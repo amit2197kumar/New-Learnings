@@ -1,6 +1,7 @@
 # 2021
 
-## June
+## JUNE
+
 1. Application Server
     1. [Web Server vs. Application Server: What Are the Differences?](https://phoenixnap.com/blog/web-server-vs-application-server)
     2. [What Is Wildfly?](https://www.jrebel.com/blog/wildfly)
@@ -52,7 +53,8 @@
 17. [What is the Relationship Between Users and Hits Per Second?](https://www.blazemeter.com/blog/what-relationship-between-users-and-hits-second)
 18. [Spring Expression Language (SpEL)](https://www.baeldung.com/spring-expression-language)
 
-## July
+## JULY
+
 1. Java JVM & JIT Compiler
     1. [Java JIT Compiler](https://medium.com/runtimeerror/java-jit-compiler-c538e5e06a2) 🤩
     2. [Working with the JIT Compiler](https://www.oreilly.com/library/view/java-performance-2nd/9781492056102/ch04.html)  🤩
