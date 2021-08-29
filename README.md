@@ -1,6 +1,6 @@
 # 2021
 
-## JUNE
+# June
 
 1. Application Server
     1. [Web Server vs. Application Server: What Are the Differences?](https://phoenixnap.com/blog/web-server-vs-application-server)
@@ -53,7 +53,7 @@
 17. [What is the Relationship Between Users and Hits Per Second?](https://www.blazemeter.com/blog/what-relationship-between-users-and-hits-second)
 18. [Spring Expression Language (SpEL)](https://www.baeldung.com/spring-expression-language)
 
-## JULY
+# July
 
 1. Java JVM & JIT Compiler
     1. [Java JIT Compiler](https://medium.com/runtimeerror/java-jit-compiler-c538e5e06a2) 🤩
@@ -84,3 +84,16 @@
     5. [JVM Garbage Collection Basics](https://medium.com/javarevisited/jvm-garbage-collection-basics-edce6791ae98) 🤩
     6. [Evolution of Garbage Collection on Java: Garbage First Garbage Collection](https://medium.com/@hansrajchoudhary_88463/evolution-of-garbage-collection-on-java-garbage-first-garbage-collection-a3f39b1a9ae0)
 6. [Native Memory — The Silent JVM Killer](https://medium.com/swlh/native-memory-the-silent-jvm-killer-595913cba8e7) 🤩
+7. Ehcache heap vs off-heap (Cache)
+    1. [Difference between “on-heap” and “off-heap”](https://stackoverflow.com/questions/6091615/difference-between-on-heap-and-off-heap)
+    2. [On-heap vs off-heap storage](https://www.waitingforcode.com/off-heap/on-heap-off-heap-storage/read)
+    3. [On heap cache vs off-heap cache](https://www.slideshare.net/rgrebski/on-heap-cache-vs-offheap-cache-53098109)
+    4. [Ehcache: Storage Options](https://www.ehcache.org/documentation/2.8/get-started/storage-options.html)
+
+# August
+
+1. AtomicBoolean
+    1. [When do I need to use AtomicBoolean in Java?](https://stackoverflow.com/questions/4501223/when-do-i-need-to-use-atomicboolean-in-java)
+    2. [AtomicBoolean](http://tutorials.jenkov.com/java-util-concurrent/atomicboolean.html)
+2. [Java Volatile Keyword](http://tutorials.jenkov.com/java-concurrency/volatile.html)
+3. [ConcurrentHashMap](https://www.journaldev.com/122/concurrenthashmap-in-java)
