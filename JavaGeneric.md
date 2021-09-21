@@ -246,3 +246,53 @@ public class BoundedTypeExample {
     }
 }
 ```
+Currect Example of Bounded Generics:
+
+```java
+package com.example.Generics;
+
+public class BoundedTypeExample {
+
+    public interface Liquid {
+        public String getTaste();
+    }
+
+    public static class Water implements Liquid {
+        @Override
+        public String getTaste() {
+            return "Taste-Less";
+        }
+    }
+    public static class MilkShake implements Liquid {
+        @Override
+        public String getTaste() {
+            return "Sweet";
+        }
+    }
+
+    public static class Glass<T extends Liquid> {
+        private T filledGlass;
+
+        public Glass(T filledGlass) {
+            this.filledGlass = filledGlass;
+        }
+
+        public String getLiquidTaste() {
+            return filledGlass.getTaste();
+        }
+    }
+
+    public static void main(String[] args) {
+        Glass<Water> waterGlass = new Glass<Water>(new Water());
+        Glass<MilkShake> milkShakeGlass = new Glass<>( new MilkShake());
+
+        System.out.println(waterGlass.getLiquidTaste());
+        System.out.println(milkShakeGlass.getLiquidTaste());
+    }
+}
+
+/**************************** OUTPUT **************************************
+ Taste-Less
+ Sweet
+ ***************************** OUTPUT *************************************/
+```
