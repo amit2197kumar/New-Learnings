@@ -1,5 +1,7 @@
 # Java Generic
 
+[Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Java-Generic-b2844dd7c5e142f18ca0d9af6123fd0f)
+
 [Java: Generic Classes](https://www.linkedin.com/learning/java-generic-classes/welcome?u=26886434)
 
 [Java Generics Example Tutorial – Generic Method, Class, Interface](https://www.journaldev.com/1663/java-generics-example-method-class-interface#java-generics-bounded-type-parameters)
