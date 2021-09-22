@@ -1,5 +1,5 @@
 # Junit & Mockito Basics
-[Original Post on Notion](https://cream-forsythia-066.notion.site/Junit-Mockito-Basics-md-d8ae1070b6a049f784f7b37f7c6ae8b9)
+[Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Junit-Mockito-Basics-md-d8ae1070b6a049f784f7b37f7c6ae8b9)
 
 # JUnit test basic annotation and examples:
 
