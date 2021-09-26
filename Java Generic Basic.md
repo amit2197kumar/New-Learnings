@@ -1,6 +1,6 @@
 # Java Generic
 
-[Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Java-Generic-b2844dd7c5e142f18ca0d9af6123fd0f)
+**[See Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Java-Generic-b2844dd7c5e142f18ca0d9af6123fd0f)**
 
 [Java: Generic Classes](https://www.linkedin.com/learning/java-generic-classes/welcome?u=26886434)
 
