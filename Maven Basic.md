@@ -60,7 +60,28 @@ When executing a task or goal, Maven looks for the POM in the current directory.
 
 ## Elements of maven pom.xml file
 
-[Untitled](https://www.notion.so/58deb55e4d2e4cd49f0c90d3071cb664)
+**project**: This is the root element of pom.xml file.
+
+**modelVersion**: This is the sub element of project which specifies the modelVersion. Model version should be 4.0.0.
+
+**groupId**: This is the sub element of project which specifies the id for the project group.
+
+**artifactId**: This is the sub element of project which specifies the id for the project. This is generally refers to the name of the project. The artifact ID is also used as part of the name of the JAR, WAR or EAR file produced when building the project.
+
+**version**: This is the sub element of project which specifies the version of the project.
+
+**packaging**: It is used to define the packaging type such as jar, war etc.
+
+**name**: It is used to define the name of the maven project.
+
+**url**: It is used to define the url of the project.
+
+**dependencies**: It is used to define the dependencies for this project.
+
+**dependency**: It is used to define a dependency. It is used inside dependencies element.
+
+**scope**: It is used to define the scope for this maven project. It can be compile, provided, runtime, test and system.
+
 
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0"   
@@ -90,7 +111,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 </project>
 ```
 
-Combination of groupId**,** artifactId and version makes the coordinates of a Maven project and needs to be unique.
+Combination of groupId, artifactId and version makes the coordinates of a Maven project and needs to be unique.
 
 ## POM < properties > Tag
 
