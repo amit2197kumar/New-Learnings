@@ -382,7 +382,9 @@ See:
 # Maven Repository
 
 A Maven Repository is a location, generally on a filesystem (either remote or local), where maven artifacts are stored and managed. Once artifacts have been stored in a maven repository, they are available for retrieval and inclusion in other maven projects.
+
 ![](/Images/Maven03.png)
+
 A **maven repository** is a directory of packaged JAR file with pom.xml file. Maven searches for dependencies in the repositories. There are 3 types of maven repository:
 
 1. Local Repository
