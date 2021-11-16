@@ -1,3 +1,6 @@
+# Spring Core Concepts
+**[See Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Spring-Core-be30caca9ee747cdb2e763ab3e9888df)**
+
 # What Is Spring?
 
 1. Spring is a dependency injection framework to make java application loosely coupled.
@@ -132,7 +135,6 @@ public class Store {
 While constructing the *Store* object, if there's no constructor or setter method to inject the *Item* bean, the container will use reflection to inject *Item* into *Store*.
 
 See: [Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
-
 Also see: [Constructor Dependency Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)
 
 # **Spring Bean Lifecycle**
@@ -231,7 +233,6 @@ Also see:
 1. [The Spring *@Qualifier* Annotation](https://www.baeldung.com/spring-qualifier-annotation)
 2. [Spring *@Primary* Annotation](https://www.baeldung.com/spring-primary)
 3. [Spring Bean Scopes](https://www.journaldev.com/21039/spring-bean-scopes) (Important)
-4. 
 
 # Reference
 
