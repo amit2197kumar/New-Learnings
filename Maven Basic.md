@@ -1,4 +1,4 @@
-# Maven Basic
+# Maven Basic Concepts
 
 **[See Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Maven-Basic-86f54ab8887948a6b505fb9433bd4163)**
 
