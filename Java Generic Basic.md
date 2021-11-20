@@ -1,4 +1,4 @@
-# Java Generic
+# Generics in Java - Basic Concepts
 
 **[See Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Java-Generic-b2844dd7c5e142f18ca0d9af6123fd0f)**
 
