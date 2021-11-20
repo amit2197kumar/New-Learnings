@@ -1,4 +1,5 @@
 # Docker Basics
+**[See Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Docker-Basic-497b372f0a0849888de3a656116d0c4d)**
 
 # What is docker?
 
