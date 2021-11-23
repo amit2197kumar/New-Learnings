@@ -1,6 +1,11 @@
 # Java Debugging With IntelliJ IDEA
 **[See Original Post On Notion For Better Readability](https://cream-forsythia-066.notion.site/Java-Debugging-With-IntelliJ-IDEA-4a502c43e2984067931c9b1644bde366)**
 
+Have created 2 videos showing all the below debugging practically: 
+
+1. [Java Debugging With IntelliJ IDEA Part 1](https://youtu.be/VH9U5W117dM)
+2. [Java Debugging With IntelliJ IDEA Part 2](https://youtu.be/qSt5rh0lZz8)
+
 # Debugging Basic Buttons (Control a program execution during debug running)
 
 - Line breakpoints
