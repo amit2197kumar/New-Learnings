@@ -6,6 +6,8 @@ Have created 2 videos showing all the below debugging practically:
 1. [Java Debugging With IntelliJ IDEA Part 1](https://youtu.be/VH9U5W117dM)
 2. [Java Debugging With IntelliJ IDEA Part 2](https://youtu.be/qSt5rh0lZz8)
 
+**Source Code**: https://github.com/kumar2197/JavaDebuggingIntelliJ
+
 # Debugging Basic Buttons (Control a program execution during debug running)
 
 - Line breakpoints
