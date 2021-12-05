@@ -7,3 +7,4 @@
 5. [Docker Basic Concepts](https://github.com/kumar2197/New-Learnings/blob/main/Docker%20Basics.md)
 6. [Java Debugging With IntelliJ IDEA](https://github.com/kumar2197/New-Learnings/blob/main/Java%20Debugging%20With%20IntelliJ%20IDEA.md)
 7. [SOLID Design Principles](https://systemdesignbasic.wordpress.com/2021/11/29/19-solid-design-principles/)
+8. [HTML & CSS Basics](https://github.com/kumar2197/New-Learnings/blob/main/HTML%20CSS%20Basics.md)
